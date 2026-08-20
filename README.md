@@ -1,16 +1,22 @@
-## Hi there 👋
+# about me
 
-<!--
-**Ofc0/Ofc0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hey. i build stuff.
 
-Here are some ideas to get you started:
+mostly tools, terminal stuff, reverse / security adjacent things, random experiments that somehow become real projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## languages i code in
+- rust
+- c++
+- python
+- lua
+
+## languages i speak
+- english
+- german
+
+## vibe
+i like clean logic, no fake fancy docs, code that actually runs.
+if something is broken i fix it. if its overengineered i cut it.
+windows + native is where i feel at home.
+
+thats kinda it.
